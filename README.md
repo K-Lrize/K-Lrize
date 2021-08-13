@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @K-Lrize
-- ![Metrics](https://metrics.lecoq.io/K-Lrize?template=classic&config.timezone=Asia%2FShanghai)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-K-Lrize/K-Lrize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/K-Lrize?template=classic&config.timezone=Asia%2FShanghai)
+![Lrize's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=K-Lrize&show_icons=true&count_private=true&theme=gotham)
+[![Krize's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Lrize)](https://github.com/anuraghazra/github-readme-stats)
